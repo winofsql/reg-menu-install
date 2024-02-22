@@ -1,4 +1,6 @@
-# reg-menu-install ( DESKTOP-MENU-settings.vbs がインストール用スクリプトです )
+# reg-menu-install 
+
+- ## DESKTOP-MENU-settings.vbs がインストール用スクリプトです
 
 - ### Github から必要なファイルをダウンロードするのに git が必要です
 - ### git はポータブル版で OK ですが、git\bin にパスを通してください
